@@ -4,6 +4,8 @@ Image to text converter using Node/Express and Tesseract.js.
 
 ## Testing It Out
 
-`yarn`
+```
+yarn
 
-`yarn start`
+yarn start
+```
